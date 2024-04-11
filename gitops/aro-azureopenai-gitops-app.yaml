@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: manifests/overlays/ocp
-    repoURL: https://github.com/rcarrat-AI/aro-azureopenai.git
+    repoURL: https://github.com/sombaner/aro-azureopenai.git
     targetRevision: main
   syncPolicy:
     automated:
